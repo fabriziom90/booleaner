@@ -42,3 +42,11 @@ h1{
     font-size: 12px;
     color: grey;
 }
+
+.photo{
+    margin: 20px 0px;
+}
+
+.caption{
+    font-size: 12px;
+}
