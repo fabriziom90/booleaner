@@ -50,3 +50,15 @@ h1{
 .caption{
     font-size: 12px;
 }
+
+.highlight{
+    background-color: yellow
+}
+
+p{
+    margin: 20px 0;
+}
+
+ul{
+    margin: 30px 15px;
+}
